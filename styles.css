@@ -1,7 +1,8 @@
 /*  your css code here. If applicable */
-.hero-section {
+.hero-section{
   position: relative;
   height: 500px;
+	width:984px;
 }
 
 .bg-image {
@@ -13,7 +14,7 @@
 .product-cards {
   position: absolute;
   top: 250px;
-  left: 50%;
+  left: 492px;
   transform: translateX(-50%);
   display: flex;
   z-index: 1;
